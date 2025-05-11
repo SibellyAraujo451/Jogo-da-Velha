@@ -28,3 +28,5 @@ Um jogo da velha simples, bonito e interativo desenvolvido com HTML, CSS e JavaS
  - Navegador moderno (Chrome, Firefox, Edge, etc.)
 
  - Editor de código (VS Code recomendado)
+
+![Image](https://github.com/user-attachments/assets/615cca43-495b-4567-a3be-409462d8f0b8)
